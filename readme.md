@@ -1,4 +1,9 @@
-# TODO
+# Dependencies
+
+- ### [Graphviz](https://graphviz.org/download/)
+  used for visual representation of NFA
+
+# TODO List
 
 - ~~add parsing for "?"~~
 - add parsing for (...|...)
@@ -6,5 +11,6 @@
 - ~~test all handlers till modifier handler~~
 - ~~finish modifier handler~~
 - ~~add modifier handler in general handler~~
-- Graphical Representation
+- ~~Graphical Representation~~
 - DFA
+- DFA minimization
